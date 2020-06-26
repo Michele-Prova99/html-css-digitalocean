@@ -1,0 +1,163 @@
+[class^="col"] {
+  height: 100%
+}
+
+body {
+  text-transform: capitalize;
+}
+
+section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.bg-blue {
+  background-image: url('https://d9hhrg4mnvzow.cloudfront.net/try.digitalocean.com/developerbrand/09202e9a-bg-home-hero-3.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+  color: white;
+}
+
+.bg-blue .bool_jumbotron {
+  background-color: white;
+  text-align: center;
+  border-radius: 5px;
+  height: 528px;
+  width: 468px;
+}
+
+.bg-grey {
+  background-color: #f3f5f9;
+}
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.bg-bluegradient {
+  background: rgb(19,2,61);
+  background: linear-gradient(90deg, rgba(19,2,61,1) 6%, rgba(41,50,170,1) 84%);
+  height: 175px;
+}
+
+.bg-darkblue {
+  background-color: #010e28;
+  height: 170px;
+}
+
+h1 {
+  font-size: 58px;
+}
+
+h2 {
+  font-size: 36px;
+  color: #031b4e;
+}
+
+h3{
+font-size: 24px;
+color: #031b4e;
+}
+
+h4 {
+  font-size: 18px;
+  color: #031b4e;
+}
+
+p {
+  font-size: 16px;
+  color: #4b5c81;
+}
+
+#little {
+  font-size: 12px;
+}
+
+#subtitle {
+  color: white;
+}
+
+.btn {
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.btn_blue {
+  background: none;
+  border: 2px solid white;
+  float: right;
+}
+
+.btn_white {
+  color: #031b4e;
+}
+
+.btn_green{
+ background-color: #15cd72;
+ color: white;
+}
+
+
+
+
+/* fish bg-blue */
+
+/* pay bg-grey */
+.pay {
+  height: 770px;
+}
+/* powerful bg-white */
+.powerful {
+  height: 630px;
+}
+
+.powerful ul li {
+  list-style: none;
+}
+/* simple bg-grey */
+.simple {
+  height: 606px;
+}
+/* plus bg-white */
+.plus {
+  height: 910px;
+}
+/* were bg-grey */
+.were {
+  height: 580px;
+}
+
+.were img {
+  height: 51px;
+  width: 51px;
+}
+/* why bg-white */
+.why {
+  height: 635;
+}
+
+.why img {
+  height: 60px;
+  width: 60px;
+}
+/* ready bg-bluegradient */
+.ready .btn_green {
+  float: right;
+}
+/* frequently bg-white */
+.frequently {
+  height: 977px;
+}
+/* end bg-darkblue */
+
+#fine {
+  font-size: 14px;
+  color: #808794;
+}
+
+.end nav ul li {
+  color: #808794;
+  list-style: none;
+  font-size: 14px;
+}
